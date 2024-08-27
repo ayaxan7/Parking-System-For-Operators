@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Parking System - For Opearators</string>
+    <string name="register_new_user">Register New User</string>
+    <string name="update_parking_slot_data">Update Parking Slot Data</string>
+    <string name="first_name">First Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="password">Password</string>
+    <string name="last_name">Last name</string>
+    <string name="email">Email</string>
+    <string name="submit">Submit</string>
+</resources>
