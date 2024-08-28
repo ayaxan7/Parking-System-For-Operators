@@ -1,42 +1,42 @@
 {
   "project_info": {
-    "project_number": "51199525692",
-    "firebase_url": "https://parking-lot-dcdca-default-rtdb.firebaseio.com",
-    "project_id": "parking-lot-dcdca",
-    "storage_bucket": "parking-lot-dcdca.appspot.com"
+    "project_number": "your_project_number",
+    "firebase_url": "https://your-firebase-url.firebaseio.com",
+    "project_id": "your_project_id",
+    "storage_bucket": "your_storage_bucket.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:51199525692:android:bf19be5474302f0ac21439",
+        "mobilesdk_app_id": "your_mobilesdk_app_id",
         "android_client_info": {
           "package_name": "eu.tutorials.parking_system"
         }
       },
       "oauth_client": [
         {
-          "client_id": "51199525692-s9i6i77epti8e4fn306skanbei8qmqpa.apps.googleusercontent.com",
+          "client_id": "your_client_id",
           "client_type": 1,
           "android_info": {
             "package_name": "eu.tutorials.parking_system",
-            "certificate_hash": "40ae26b460cc6d5d0a0b8e4ae22acf921d930c0c"
+            "certificate_hash": "your_certificate_hash"
           }
         },
         {
-          "client_id": "51199525692-1vauovh0dp6k5a9uq7rjvr6kt94amcvd.apps.googleusercontent.com",
+          "client_id": "your_other_client_id",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCnyuDMPcJXMI43GQ2BRYxyYJK2WMSfNH4"
+          "current_key": "your_api_key"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "51199525692-1vauovh0dp6k5a9uq7rjvr6kt94amcvd.apps.googleusercontent.com",
+              "client_id": "your_other_client_id",
               "client_type": 3
             }
           ]
@@ -45,27 +45,27 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:51199525692:android:70cc84c610570044c21439",
+        "mobilesdk_app_id": "your_other_mobilesdk_app_id",
         "android_client_info": {
           "package_name": "eu.tutorials.parkingsystem_foropearators"
         }
       },
       "oauth_client": [
         {
-          "client_id": "51199525692-1vauovh0dp6k5a9uq7rjvr6kt94amcvd.apps.googleusercontent.com",
+          "client_id": "your_other_client_id",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCnyuDMPcJXMI43GQ2BRYxyYJK2WMSfNH4"
+          "current_key": "your_other_api_key"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "51199525692-1vauovh0dp6k5a9uq7rjvr6kt94amcvd.apps.googleusercontent.com",
+              "client_id": "your_other_client_id",
               "client_type": 3
             }
           ]
