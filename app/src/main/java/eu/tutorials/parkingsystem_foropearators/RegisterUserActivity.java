@@ -112,6 +112,7 @@ public class RegisterUserActivity extends AppCompatActivity {
                             userData.put("firstName", firstName);
                             userData.put("lastName", lastName);
                             userData.put("email", email);
+                            userData.put("password",password);
                             userData.put("userId", user.getUid());
 
                             db.collection("users").document(user.getUid())

@@ -27,7 +27,6 @@ public class MainActivity extends AppCompatActivity {
     public void onUpdateParkingClicked(View view) {
         Intent intent = new Intent(this, UpdateParkingActivity.class);
         startActivity(intent);
-
         return;
     }
 
